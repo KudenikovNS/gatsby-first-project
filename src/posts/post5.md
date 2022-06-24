@@ -1,7 +1,7 @@
 ---
 title: КудениковНС
-category: greece
-url: night-athens
+category: about
+url: me
 image: ../images/Kudenikov.png
 ---
 
