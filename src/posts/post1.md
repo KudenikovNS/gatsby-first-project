@@ -2,7 +2,7 @@
 title: Путешетвие в Рим
 category: italy
 url: italy-trip
-image: ../images/gatsby-icon.png
+image: ../images/rim.png
 ---
 
 # Поездака в Рим

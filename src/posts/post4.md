@@ -2,7 +2,7 @@
 title: Вечерние Афины
 category: greece
 url: night-athens
-image: ../images/gatsby-icon.png
+image: ../images/athens.jpg
 ---
 
 # Вечерние Афины
