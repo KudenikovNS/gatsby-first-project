@@ -226,9 +226,12 @@ pre tt:after {
 .posts {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .post {
   margin-right: 20px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
 }
